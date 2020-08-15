@@ -1,9 +1,4 @@
 ﻿
-/****************
- * Michael Arrey
- * C#
- * 04/02/2020
- * *************/
 using System;
 using System.Collections.Generic;
 using System.Linq;
